@@ -1,0 +1,6 @@
+{
+  "name": "KRAFTWERK Studio - Herramientas para Diseñadores",
+  "description": "Marketplace curado donde diseñadores pueden comprar y vender herramientas digitales (modelos 3D para Procreate, brushes, tipografías) y herramientas físicas (dials de atajos, calibradores, cuadernos técnicos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
